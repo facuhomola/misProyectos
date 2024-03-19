@@ -1,0 +1,7 @@
+Pasos para poder importar la Base de Datos con usuarios ya cargados
+
+Crear una base de datos llamada "gimnasio"
+ir al apartado "Importar"
+seleccionar el archivo gimnasio.sql
+
+Ver en la tabla usuarios, utilizar cualquiera de los datos registrados para iniciar sesion
