@@ -2,7 +2,7 @@
 
 session_start();
 //Conectar a la base de datos
-include('bd/cn.php');
+include('cn.php');
 
 $user = $_SESSION['user'];
 if (!isset($user)) {
